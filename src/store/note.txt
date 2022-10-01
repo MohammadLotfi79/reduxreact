@@ -1,0 +1,2 @@
+We have to test 'Actions', 'Reducers' and 'Middlewares' together. This is called
+Social test.
